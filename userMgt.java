@@ -10,5 +10,7 @@ Paul
 Fatima
 Daniel
 Maej
-
+Manager
+Collaborator
+Observer
 
