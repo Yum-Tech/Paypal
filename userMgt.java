@@ -1,5 +1,5 @@
 Landmark
-Ola
+Ayafor
 Feji
 Dorcas
 Violet
@@ -11,6 +11,6 @@ Fatima
 Daniel
 Maej
 Manager
-Collaborator
+Admin
 Observer
 
