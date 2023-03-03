@@ -1,5 +1,6 @@
-We manage 
+We manage;
 java applications
 .net apllications
 NodeJS application
-pytweb applications
+python applications
+web applications
